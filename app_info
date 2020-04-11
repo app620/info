@@ -1,7 +1,8 @@
 {
-"text" : "this app is developed by",
+"text" : "This App is Developed By \n SAYED AHMED \n Email: sayed.ahmed6662@gmail.com",
 "name" : "Sayed Ahmed",
 "email" : "sayed.ahmed6662@gmail.com",
 "password":"ssaayyeeddaahhmmeedd",
-"website" : "https://sites.google.com/view/sayedahmed"
+"src" : "https://sites.google.com/view/sayedahmed",
+"btn" : "View Portfolio"
 }
